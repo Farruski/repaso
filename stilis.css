@@ -1,0 +1,26 @@
+*{
+  margin: 20px;
+}
+body{
+  background: red;
+  border: 7px;
+  border-color: black;
+  border-style: double;
+
+}
+h1{
+  font-style:  italic;
+  text-align: center;
+  color: black
+
+}
+h2{
+  text-align: center;
+  font-style: oblique;
+  color: yellow;
+}
+h3{
+  text-align: center;
+  font-style: normal;
+  color: violet;
+}
